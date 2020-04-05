@@ -19,3 +19,4 @@ console.log(platosPrincipales[1]);
 
 
 //metodo push es para agregar,el output ahora es un array.
+//otro cambio
